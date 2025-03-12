@@ -1,2 +1,2 @@
 # Bits-Pilani-
-This i bits pilani  project for Development 
+This is bits pilani  project for Development 
