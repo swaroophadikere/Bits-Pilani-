@@ -1,0 +1,575 @@
+Module 1 : 
+
+Here are the headings from the presentation "Module-1 Agile Methods - An Introduction":
+
+1. **Faculty Introduction**
+2. **Course Handout**
+3. **Introduction**
+4. **Poll**
+5. **Traditional Software Development Practices**
+6. **Need for Agile Methods**
+7. **Benefits of Agile Methods**
+8. **Module-1 – Topics**
+9. **What is a Project?**
+10. **Project Management Life Cycle Phases**
+11. **System Development Life Cycle/Phases (SDLC)**
+12. **Basic Project Management Concepts**
+13. **Development Project**
+14. **Maintenance or Support Project (Operational Work)**
+15. **Project Management Phases**
+16. **System Development Phases (Engineering Activities)**
+17. **Project Management Model**
+18. **Waterfall Model and Agile**
+19. **Waterfall Approach to Software Development**
+20. **Agile Approach to Software Development**
+21. **PDCA Cycle**
+22. **Iron Triangle of Project Management**
+23. **Advantages and Disadvantages of Waterfall**
+24. **Advantages and Disadvantages of Agile Model**
+25. **Most Common Project Management Approach**
+26. **Application of Waterfall Model**
+27. **Application of Waterfall and Agile Model**
+28. **Issues with Waterfall Approach**
+29. **Impact of Waterfall**
+30. **Software Project Success and Failure**
+31. **The Problem with Status Quo**
+32. **Project Management Needed Makeover**
+33. **Definable Work**
+34. **High Uncertainty Work**
+35. **Waterfall vs Agile Project**
+36. **Evolution of Agile Project Management**
+37. **Agile Project Management Framework**
+38. **Benefits & Challenges of Agile Methods**
+39. **Corporate World - Challenges and Inefficiencies**
+40. **Benefits of Agile Methods/Approaches/Practices/Techniques**
+41. **Cone of Uncertainty**
+42. **Other Benefits of Agile Approach**
+43. **Cost of Change**
+
+If you need more details or specific sections, feel free to ask!
+
+
+Module 2 
+
+Here are the headings from the presentation "Module-2 Agile Software Development":
+
+1. **Project Development Life Cycle**
+   - Predictive life cycle
+   - Iterative life cycle
+   - Incremental life cycle
+   - Agile/Adaptive life cycle
+   - Spiral Model
+   - Rational Unified Process
+
+2. **Early Agile Methods**
+   - Agile Mindset
+
+3. **Project Life Cycle Models**
+   - Predictive Project Development Life Cycle
+   - Iterative Project Development Life Cycle
+   - Incremental Life Cycle
+   - Agile/Adaptive Life Cycle-Iteration Based Agile
+   - Agile/Adaptive Life Cycle-Flow-based Based Agile
+
+4. **Some Popular Iteration Models**
+   - Spiral Risk Driven Customer driven Planning
+   - Rational Unified Process (RUP)
+
+5. **Early Agile Methods**
+   - Dynamic System Development Method (DSDM)
+   - Feature Driven Development (FDD)
+   - Crystal Method
+
+6. **Project Classifications/Decision Making Models**
+   - Stacey's Complexity Model
+   - Cynefin Framework
+
+7. **Agile Suitability - Project Environment**
+   - Rolling Wave Planning or Progressive Elaboration
+   - Agile Mindset
+   - Agile Manifesto & Principles
+   - Delivery Environments and Agile Suitability
+
+If you need more details or specific sections, feel free to ask!
+
+Module 3
+
+Here are the headings from the presentation "Module-3 Agile Manifesto and Principles":
+
+1. **The rise of knowledge workers**
+2. **Agile Manifesto**
+3. **Agile Principles**
+4. **Team Motivation, Team Dynamics, Soft Skills**
+5. **Self Organizing Teams, Emergent Design**
+6. **Simplicity**
+7. **Three Perspectives (HOT Perspectives)**
+   - Human perspective
+   - Organizational perspective
+   - Technological perspective
+8. **Agile Manifesto Principles (Year 2001)**
+9. **12 Agile Principles (Principles behind Agile Manifesto)**
+10. **Augmentation of Agile Manifesto**
+11. **Agile Principles (Not Official)**
+    - Organizational
+    - Technical
+12. **Agile Practices**
+13. **Quiz**
+14. **Principle 1**
+15. **Agile Principle #1**
+16. **Agile Principle #2**
+17. **Agile Principle #3**
+18. **Agile Principle #4**
+19. **Customer dissatisfaction issues**
+20. **Agile Principle #5**
+21. **Motivated and Talented individuals**
+22. **Maslow’s hierarchy of needs (Motivation theory)**
+23. **McGregor’s Theory X and Theory Y**
+24. **Herzberg’s Motivation-Hygiene Theory**
+25. **Daniel Pink’s Motivation Theory**
+26. **Talent**
+27. **Agile Principle #6**
+28. **Agile Principle #7**
+29. **Agile Principle #8**
+30. **Sustainable Phase**
+31. **Agile Principle #9**
+32. **Technical Excellence**
+33. **Quiz**
+34. **Simplicity**
+35. **Fit-For-Purpose product**
+36. **Fit-For-Purpose Delivery**
+37. **Silo Delivery**
+38. **Vertical slices**
+39. **Agile Principle #11**
+40. **Self Organizing Teams**
+41. **Emergent Design**
+42. **Self-organizing teams and emergent design**
+43. **Agile Principle #12**
+44. **Team Dynamics and Interpersonal skills**
+45. **Tuckman’s theory of team evolution**
+46. **Lencioni – the five dysfunctions of teams**
+47. **Interpersonal Skills – Key terms**
+48. **Emotional Intelligence**
+49. **The Emotional Intelligence Skills Assessment (EISA) framework**
+50. **Collaboration**
+51. **Adaptive Leadership**
+52. **Negotiation**
+53. **Conflict Resolution**
+54. **Conflict Resolution Techniques**
+55. **Servant Leadership**
+56. **Anti Patterns: Agile Manifesto**
+57. **Anti Patterns: Agile Principles**
+
+If you need more details or specific sections, feel free to ask!
+
+Module 4 
+Here are the headings from the presentation "Module-4 Agile Methodologies":
+
+1. **Agile Methods**
+   - Scrum
+   - XP
+   - Lean
+   - Kanban
+
+2. **Scrum**
+   - History and Origins
+   - Scrum Life Cycle Process
+   - Scrum Project Life Cycle
+   - Scrum Roles
+   - Scrum Artifacts
+   - Sprint Events/Ceremonies
+
+3. **XP - Extreme Programming**
+   - What is Extreme Programming?
+   - How XP fits in Agile
+   - XP Theme
+   - XP Core Values
+   - Basic XP Principles
+   - XP Principles
+   - Further Principles
+   - Key XP Practices
+   - XP Practices
+   - Test Driven Development (TDD)
+
+4. **Lean Software Development**
+   - What is Lean?
+   - Lead Time & Cycle Time
+   - Value Stream Mapping
+   - 7 Principles of Lean Software Development
+   - Types of Waste in Software Development
+   - Lean Principles that are Proven to Work
+
+5. **Kanban**
+   - Kanban Methodology
+   - How to use Kanban to improve your process
+   - Typical Kanban Board
+   - Cumulative Flow Diagram
+
+If you need more details or specific sections, feel free to ask!
+
+Module 5 
+
+Here are the headings from the presentation "Module-5 Prioritization Techniques and Planning with User Stories":
+
+1. **Why Do We Need to Prioritize Product Backlog?**
+2. **Why Product Backlog Prioritization Matters?**
+3. **What Factors to Consider When Prioritizing?**
+4. **Defining Business Value**
+5. **Start Prioritizing Big Items**
+6. **Prioritization Techniques**
+   - Customer Valued Prioritization
+   - Kano Analysis
+   - MoSCoW Technique
+   - Relative Prioritization
+   - Business Value vs Risk vs Effort
+   - Relative Weighting Prioritization
+
+7. **Kano Analysis**
+   - Functional and Dysfunctional Questions
+   - Categorize the Answers
+   - Analysis
+
+8. **MoSCoW Prioritization Scheme**
+   - Must Have
+   - Should Have
+   - Could Have
+   - Won’t Have
+
+9. **Business Value vs Risk**
+10. **Karl Wieger’s Relative Weighting Prioritization Matrix**
+11. **100-Point Method**
+12. **Structured Approach to Prioritizing Your User Stories**
+13. **Client-driven Agile Requirement Prioritization**
+14. **Planning with User Stories**
+15. **Epics, Themes, User Stories**
+16. **Splitting User Stories**
+   - Spikes
+   - Paths
+   - Interfaces
+   - Data
+   - Rules
+
+17. **Story Maps or User Story Mapping**
+18. **Wireframes**
+19. **Personas Help You Get to Know Your Users**
+20. **Personas Creation**
+
+If you need more details or specific sections, feel free to ask!
+
+Module 5
+
+Here are the headings from the presentation "Module-5 Agile Requirements & Agile Estimation":
+
+1. **Requirements Gathering in Waterfall Method**
+2. **Requirements Gathering in Agile**
+3. **User Stories at Heart of the Build, Measure, Learn Cycle**
+4. **Empathic Design**
+5. **What is the User Story and How it Looks?**
+6. **User Story Template**
+7. **User Story Examples**
+8. **Writing Acceptance Criteria for User Stories**
+9. **Acceptance Criteria/Conditions of Satisfaction**
+10. **Elements of Good User Stories (INVEST)**
+11. **User Stories – Exercise**
+12. **The 3 Cs - Story Process**
+13. **Difference Between User Story, Bugs, Constraints**
+14. **How to Take Care of Frontend Design?**
+15. **How User Stories Promote Empathy**
+16. **Story Grooming Meeting**
+17. **Agile Estimation**
+18. **Absolute Estimation**
+19. **Relative Estimation**
+20. **Why Agile Team Use Relative Estimation?**
+21. **Story Point Estimation**
+22. **What are We Estimating?**
+23. **Story Point for Estimation**
+24. **What Does a Story Point Represent?**
+25. **Fibonacci Series as Story Points**
+26. **Predictability of User Stories Estimation**
+27. **How User Stories are Estimated by the Team?**
+28. **Planning Poker**
+29. **Story Point Estimation – An Example**
+30. **Value Point**
+31. **Bang For the Buck (BFTB) (OR) Priority**
+32. **Velocity**
+33. **Highest Value Delivered in Early Iterations**
+34. **Value Delivered Decreases as Iteration Progress**
+35. **Estimation Exercise**
+36. **Story Points – Real Examples**
+37. **Other Estimation Techniques**
+38. **Estimate by Analogy**
+39. **Triangulation**
+40. **Ideal Time**
+41. **Story Points vs Ideal Time**
+42. **T-Shirt Sizing, Disaggregation**
+43. **Affinity Grouping**
+44. **Re-estimating**
+
+If you need more details or specific sections, feel free to ask!
+
+Module 6 
+
+Here are the headings from the presentation "Module-6 Agile Planning & Release Planning":
+
+1. **Agile Planning**
+2. **An Enterprise Agile Framework**
+3. **Release Planning**
+   - Inputs
+   - Example: Release Planning
+   - Estimating Velocity
+   - High-confidence Forecast Example
+   - Creating a Release Plan Exercise
+
+4. **Module-6 Agile Planning & Release Planning – Additional Notes**
+   - 5-Levels of Agile Planning
+   - Patterns of Release Planning/Different Release Cadences
+   - Agile Release Planning
+   - Make Release Planning Collaborative
+   - Relationship between Product Vision, Product Roadmap, Release Planning, and Iteration Planning
+
+5. **Development Constraint Combinations**
+6. **Condition of Satisfaction**
+7. **Estimate User Stories**
+8. **Select an Iteration Length**
+   - The Overall Length of the Release
+   - The Amount of Uncertainty
+   - The Ease of Getting Feedback
+   - How Long Priorities Can Remain Unchanged
+   - Willingness to Go without Outside Feedback
+   - The Overhead of Iterating
+   - How Soon a Feeling of Urgency Is Established
+   - Stick with It to Achieve a Steady Rhythm
+
+9. **Estimating Velocity**
+   - Using Historical Values
+   - Run an Iteration
+   - Forecasting Velocity
+
+10. **Creation of a Release Plan**
+11. **Tracking the Progress of the Release – Release Burndown Chart**
+12. **Product Visioning - Level 1**
+    - How to Define a Product Vision?
+    - How to Define a Product Vision? - Classical Format
+
+13. **Product Roadmap – Level 2 Planning**
+    - Type of Product Roadmaps
+    - Goal Oriented Roadmap
+
+14. **Product Backlog - Level 3**
+    - Characteristics of a Product Backlog
+
+15. **Project Trade-off Matrix**
+16. **Exploration Factor**
+
+If you need more details or specific sections, feel free to ask!
+
+Module 7
+
+Here are the headings from the presentation "Module-7 Scrum Iteration Planning":
+
+1. **Module – 7 Scrum Iteration Planning**
+2. **References**
+3. **Topics**
+4. **Sprint Overview**
+5. **Potentially Shippable Product Increment (PSI)**
+6. **Sprint Practices**
+7. **Spike - Story**
+8. **Sprint Planning**
+9. **Sprint Planning – Part-1**
+10. **Examples of Sprint Goals**
+11. **Sprint Planning : Part-1 – Defining the Sprint Goal - The Process**
+12. **What the Development Team Pulled?**
+13. **Sprint Planning – Part-1 Key Takeaways**
+14. **Sprint Planning – Part-2 – The How**
+15. **Sprint Planning – Part-2 – Splitting into Fine Grain Tasks**
+16. **The Sprint Planning Ends with Sprint Backlog + Team Commitment + Refined Sprint Goal**
+17. **Sprint Backlog**
+18. **The Process Flow**
+19. **Sprint Planning – Additional Notes**
+20. **Scrum Practices**
+21. **Short Sprints**
+22. **Time Boxing**
+23. **Development Team Capacity in a Sprint**
+24. **Capacity in Story Points**
+25. **Capacity in Effort-Hours (Two Weeks Sprint) - Example**
+26. **Selecting Product Backlog Items**
+27. **Examples of Product Backlog Items (PBI)**
+28. **Acquiring Confidence**
+29. **Acquiring Confidence …**
+30. **Definition of Done**
+31. **Definition of Done …**
+32. **Definition of Ready**
+33. **Example: Definition of Ready**
+34. **Thank You**
+
+If you need more details or specific sections, feel free to ask!
+
+Module 7
+Here are the headings from the presentation "Module-7 Scrum Iteration Planning":
+
+1. **Module – 7 Scrum Iteration Planning**
+2. **References**
+3. **Topics**
+4. **Sprint Overview**
+5. **Potentially Shippable Product Increment (PSI)**
+6. **Sprint Practices**
+7. **Spike - Story**
+8. **Sprint Planning**
+9. **Sprint Planning – Part-1**
+10. **Examples of Sprint Goals**
+11. **Sprint Planning : Part-1 – Defining the Sprint Goal - The Process**
+12. **What the Development Team Pulled?**
+13. **Sprint Planning – Part-1 Key Takeaways**
+14. **Sprint Planning – Part-2 – The How**
+15. **Sprint Planning – Part-2 – Splitting into Fine Grain Tasks**
+16. **The Sprint Planning Ends with Sprint Backlog + Team Commitment + Refined Sprint Goal**
+17. **Sprint Backlog**
+18. **The Process Flow**
+19. **Sprint Planning – Additional Notes**
+20. **Scrum Practices**
+21. **Short Sprints**
+22. **Time Boxing**
+23. **Development Team Capacity in a Sprint**
+24. **Capacity in Story Points**
+25. **Capacity in Effort-Hours (Two Weeks Sprint) - Example**
+26. **Selecting Product Backlog Items**
+27. **Examples of Product Backlog Items (PBI)**
+28. **Acquiring Confidence**
+29. **Acquiring Confidence …**
+30. **Definition of Done**
+31. **Definition of Done …**
+32. **Definition of Ready**
+33. **Example: Definition of Ready**
+34. **Thank You**
+
+If you need more details or specific sections, feel free to ask!
+
+Module 8
+
+Here are the headings from the presentation "Module-8 Executing a Sprint":
+
+1. **Module8- Executing a Sprint**
+2. **Sprint Execution**
+3. **Whole Team**
+4. **Paring**
+5. **Swarming**
+6. **Mob Programming**
+7. **Daily Scrum**
+8. **Sprint Review**
+9. **Sprint Retrospective**
+10. **Communicating: The Progress**
+11. **Sprint Task Board**
+12. **Sprint Burndown Chart**
+13. **Sprint Burnup**
+14. **Release-Charts**
+15. **Quiz**
+16. **Additional Notes**
+17. **Sprint Execution: The Process**
+18. **Sprint Burndown Chart - Effort**
+19. **Sprint Burndown Chart with Trend Lines**
+20. **Sprint Burndown Chart - Story Points**
+21. **Sprint Burnup Chart**
+22. **Sprint Execution: Daily Scrum Team Meeting**
+23. **Sprint Execution: Timing**
+24. **Sprint Execution: Participants**
+25. **Sprint Execution: Process - Task Planning**
+26. **Sprint Execution: Process - Flow Management**
+27. **Flow Management: Parallel Work and Swarming**
+28. **Flow Management: Which Items to Start**
+29. **Flow Management: How to Organize the Work?**
+30. **Flow Management: What Tasks Need to Be Done?**
+31. **Flow Management: Who Does the Work?**
+32. **Task Performance: Technical Practices**
+33. **Communicating: The Progress**
+34. **Thank You**
+
+If you need more details or specific sections, feel free to ask!
+
+Module 9 
+
+Here are the headings from the presentation "Module-9 Agile Metrics and Tools":
+
+1. **Agile Metrics and Tools**
+2. **Agile Metrics**
+3. **Quantitative & Qualitative Metric**
+4. **An Example Quantitative Metric**
+5. **An Example - Good Qualitative Agile Metrics: Team Adoption to Agile**
+6. **Metrics: What Are Some Trends of Burndown Charts and What Do the Patterns Indicate?**
+7. **Velocity**
+8. **Bug Counts**
+9. **Summary**
+10. **Quiz**
+11. **Cumulative Flow Diagram**
+12. **Burndown Chart**
+13. **Committed vs Completed**
+14. **Work Done by Tech Category**
+15. **Net Open Bugs**
+16. **Additional Notes - Measuring Agile Performance**
+17. **Good Quantitative Agile Metrics: Lead Time and Cycle Time**
+18. **Most Common and Meaningful Metrics for Team System Improvement (SI)**
+19. **The Importance of Metrics to Agile Teams**
+20. **Cumulative Flow**
+21. **Example - Combination of Data**
+22. **Collect, Measure, React, Repeat—The Feedback Loop**
+23. **Figuring Out What Matters**
+24. **Project Performance Data**
+25. **Thank You**
+
+If you need more details or specific sections, feel free to ask!
+
+Module 10
+
+Here are the headings from the presentation "Module-10 Managing Quality and Risks in Agile Project":
+
+1. **Module-10 – Managing Quality and Risks in Agile Project**
+2. **Key Differences between Agile and Traditional Quality Management**
+3. **Agile Development and Testing Practices**
+4. **Agile Approach to Quality**
+5. **QA Role in Agile Project**
+6. **Testing within Sprint**
+7. **Process Quality and Product Quality**
+8. **QA Good Practices**
+9. **Risk Management in Agile**
+10. **Risk Management in Agile**
+11. **Mitigation Strategies for Positive Risks or Opportunities**
+12. **Mitigation Strategies for Negative Risks (Threats)**
+13. **Communicating - Risk Register – An Example**
+14. **Risk Burndown Chart**
+15. **Use Risk Management to Make Solid Commitments to Executives**
+16. **Using Risk Multiplier in Your Estimation**
+17. **An Example**
+18. **Summary**
+19. **Quizzes**
+20. **Additional Notes – Quality & Risk Management**
+21. **Issues with Traditional Approaches to Quality Management**
+22. **Agile Approach to Quality Management**
+23. **Agile Approach to Quality Management …**
+24. **Agile Approach to Quality Management …. Automate Tests at Different Levels**
+25. **The Role of Manual Testing**
+26. **Do Acceptance Test Driven Development**
+27. **What is Risk?**
+28. **Mitigating Risks with Agile Methods**
+29. **Mitigating Risks with Agile Methods ….**
+30. **Risk Register - Another Example**
+
+If you need more details or specific sections, feel free to ask!
+
+Module 11 - 12 
+
+
+Here are the headings from the presentation "Module 11&12 - Agile Myths and Pitfalls, Ensuring Agile Success":
+
+1. **Module 11&12 - Agile Myths and Pitfalls, Ensuring Agile Success**
+2. **Agile Myths/Misconceptions**
+3. **Scaling Scrum: Scrum of Scrums**
+4. **Scaling Scrum/ Scrum of Scrum/ SAFe**
+5. **Distributed Agile Models**
+6. **Key Issues with Distributed Model**
+7. **Distributed Agile Team Best Practices**
+8. **Agile Transformation**
+9. **Additional Notes**
+10. **Distributed Agile/Location Independent Agile Teams**
+11. **Distributed Agile/Location Independent Agile Teams …**
+12. **Distributed Agile Models**
+13. **Agile Transformation**
+
+If you need more details or specific sections, feel free to ask!
